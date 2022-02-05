@@ -15,42 +15,420 @@ Strachey, Lytton. _Queen Victoria._ London: Bloomsbury Publishing Plc., 1987.
 
 Townsend, Sue. _The Queen and I._ New York: Soho Press Inc., 1994.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Unit 1: Background**{{< /td-colspan >}} |||
-| 1 | Tudors and Stuarts | &nbsp; |
-| 2 | Royal Pageantry and Royal Politics | &nbsp; |
-| 3 | Discussion | Oakland, John. "The Monarchy" in _British Civilization_. London, New York: Routledge, 1996. {{< br >}}{{< br >}} Cannadine. _The Context, Performance and Meaning of Ritual: The British Monarchy and the 'Invention of Tradition'_, _c.1820-1977._ Cambridge: Cambridge University Press, 1983. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Unit 2: German Kings of England**{{< /td-colspan >}} |||
-| 4 | George I and George II | &nbsp; |
-| 5 | Discussion | G and C, pp. 459-484. {{< br >}}{{< br >}} Thackeray, William M. _The First Four Georges._ New York: Book League of America, 1937. (selection) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Unit 3: The Father of His Country**{{< /td-colspan >}} |||
-| 6 | George III | &nbsp; |
-| 7 | Movie: _The Madness of King George_ | &nbsp; |
-| 8 | Discussion | G and C, pp. 484-529. {{< br >}}{{< br >}} Burney, Fanny. _The Diary of Fanny Burney._ New York: E.P. Dutton, 1940. (selection) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Unit 4: Style and Scandal**{{< /td-colspan >}} |||
-| 9 | Prince Regent and George IV | &nbsp; |
-| 10 | Discussion | G and C, pp. 530-545. {{< br >}}{{< br >}} Clark, Anna. "Queen Caroline and the Sexual Politics of Popular Culture." in _Representations._ Berkeley: University of California Press, 1990. {{< br >}}{{< br >}} Laqueur. "The Queen Caroline Affair: Politics as Art in the Reign of George IV." in _The Journal of Modern History._ September, 1992, pp. 417-466 {{< br >}}{{< br >}}  |
-| 11 | Video: _A Royal Scandal_ | &nbsp; |
-| {{< td-colspan 3 >}}**Unit 5: The Mother of Her Country**{{< /td-colspan >}} |||
-| 12 | Transition: William IV to Victoria | &nbsp; |
-| 13 | The Young Queen | &nbsp; |
-| 14 | Victoria and Albert | &nbsp; |
-| 15 | Discussion |  {{< br >}}{{< br >}} G and C, pp. 545-578. {{< br >}}{{< br >}} Strachey. _Queen Victoria._ Chapters 1-6. {{< br >}}{{< br >}}  |
-| 16 | Empress of India | &nbsp; |
-| 17 | Discussion | Bagehot. "The Monarchy." in _The English Constitution._ Cambridge: Cambridge University Press, 2001. |
-| {{< td-colspan 3 >}}**Unit 6: The Shadow of War**{{< /td-colspan >}} |||
-| 18 | Edward VII and George V | &nbsp; |
-| 19 | Discussion | G and C, pp. 579-600. {{< br >}}{{< br >}} Cannadine, David. "The Jubilee Program" in _King George V_. New York: W.W. Norton & Co., 1991. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Unit 7: Constitutional Crises and Recovery**{{< /td-colspan >}} |||
-| 20 | The Abdication of Edward VIII | &nbsp; |
-| 21 | Discussion | G and C, pp. 601-615. {{< br >}}{{< br >}} Windsor, Edward. _A King's Story - The Memoirs of the Duke of Windsor._ London: Prion Books, 1998. (selection) {{< br >}}{{< br >}}  |
-| 22 | George VI: Their Finest Hour | &nbsp; |
-| {{< td-colspan 3 >}}**Unit 8: The Monarchy in Modern Britain**{{< /td-colspan >}} |||
-| 23 | Elizabeth II | &nbsp; |
-| 24 | Discussion | G and C, pp. 615-636. {{< br >}}{{< br >}} Townsend. _The Queen and I._ {{< br >}}{{< br >}}  |
-| 25 | Class Presentations | &nbsp; |
-| 26 | Class Presentations |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 1: Background**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Tudors and Stuarts
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Royal Pageantry and Royal Politics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Oakland, John. "The Monarchy" in _British Civilization_. London, New York: Routledge, 1996.
+
+Cannadine. _The Context, Performance and Meaning of Ritual: The British Monarchy and the 'Invention of Tradition'_, _c.1820-1977._ Cambridge: Cambridge University Press, 1983.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 2: German Kings of England**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+George I and George II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+G and C, pp. 459-484.
+
+Thackeray, William M. _The First Four Georges._ New York: Book League of America, 1937. (selection)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 3: The Father of His Country**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+George III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Movie: _The Madness of King George_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+G and C, pp. 484-529.
+
+Burney, Fanny. _The Diary of Fanny Burney._ New York: E.P. Dutton, 1940. (selection)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 4: Style and Scandal**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Prince Regent and George IV
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+G and C, pp. 530-545.
+
+Clark, Anna. "Queen Caroline and the Sexual Politics of Popular Culture." in _Representations._ Berkeley: University of California Press, 1990.
+
+Laqueur. "The Queen Caroline Affair: Politics as Art in the Reign of George IV." in _The Journal of Modern History._ September, 1992, pp. 417-466
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Video: _A Royal Scandal_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 5: The Mother of Her Country**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Transition: William IV to Victoria
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The Young Queen
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Victoria and Albert
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+G and C, pp. 545-578.
+
+Strachey. _Queen Victoria._ Chapters 1-6.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Empress of India
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Bagehot. "The Monarchy." in _The English Constitution._ Cambridge: Cambridge University Press, 2001.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 6: The Shadow of War**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Edward VII and George V
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+G and C, pp. 579-600.
+
+Cannadine, David. "The Jubilee Program" in _King George V_. New York: W.W. Norton & Co., 1991.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 7: Constitutional Crises and Recovery**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+The Abdication of Edward VIII
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+G and C, pp. 601-615.
+
+Windsor, Edward. _A King's Story - The Memoirs of the Duke of Windsor._ London: Prion Books, 1998. (selection)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+George VI: Their Finest Hour
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 8: The Monarchy in Modern Britain**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Elizabeth II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+G and C, pp. 615-636.
+
+Townsend. _The Queen and I._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Class Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Class Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Bibliography" >}}{{< /anchor >}}General Background
 --------------------------------------------------------------
