@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 822a1ccf-7666-06de-3f90-10af5ffd1b72
 resourcetype: Image
 title: vict_coron.jpg
 uid: b645d03a-70cc-5965-7f1e-0c350e10beb8

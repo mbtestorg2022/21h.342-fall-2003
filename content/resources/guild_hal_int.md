@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 822a1ccf-7666-06de-3f90-10af5ffd1b72
 resourcetype: Image
 title: guild_hal_int.jpg
 uid: 083141a5-466c-4619-1351-e0b5fc8f1bcc

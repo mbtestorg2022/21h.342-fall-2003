@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 822a1ccf-7666-06de-3f90-10af5ffd1b72
 resourcetype: Image
 title: ggiiislide11.jpg
 uid: 9f40ba67-62e7-57f6-6883-1cb485479e99

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 822a1ccf-7666-06de-3f90-10af5ffd1b72
 resourcetype: Image
 title: ggivslide7.jpg
 uid: 72be6bb4-f556-9298-bd85-57da512a77f0

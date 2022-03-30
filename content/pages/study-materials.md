@@ -9,60 +9,60 @@ Below is a selection of images from cards and cartoons of George III, George IV 
 George III
 ----------
 
-![George III, Queen Charlotte, and the Prince of Wales gorging at the public trough.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/ggiiislide10.jpg)
+{{< resource "da7bbd78-bf92-ade0-6e82-c674a52467ac" >}}
 
 James Gillray. 1787. George III, Queen Charlotte, and the Prince of Wales gorging at the public trough.
 
-![By George Cruikshank, 1809.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/ggiiislide11.jpg)
+{{< resource "9f40ba67-62e7-57f6-6883-1cb485479e99" >}}
 
 By George Cruikshank, 1809.
 
-![Buckingham House before it became Buckingham Palace, 1809.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/ggiiislide12.jpg)
+{{< resource "419b23d0-3465-868d-f2a9-e4075f41546b" >}}
 
 Buckingham House before it became Buckingham Palace, 1809.
 
-![Celebrations in the City on George III’s Golden Jubilee.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/ggiiislide13.jpg)
+{{< resource "be65c665-192d-8d0b-030f-4afbc00435a1" >}}
 
 Celebrations in the City on George III's Golden Jubilee.
 
 George IV
 ---------
 
-![Cartoon of George IV and Caroline by Lewis Marks, June 1821.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/ggivslide6.jpg)
+{{< resource "937cedf0-5609-c2da-cdea-0bba18149a32" >}}
 
 Cartoon of George IV and Caroline by Lewis Marks, June 1821.
 
-![Coronation of George IV.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/ggivslide7.jpg)
+{{< resource "72be6bb4-f556-9298-bd85-57da512a77f0" >}}
 
 Coronation of George IV.
 
-![Royal Pavilion, Brighton.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/ggivslide22.jpg)
+{{< resource "2f9e1153-eabf-520e-cc2d-efade7e50198" >}}
 
 Royal Pavilion, Brighton.
 
 Victoria: The Young Queen
 -------------------------
 
-![Victoria's coronation in Westminster Abbey, 1838.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/vict_coron.jpg)
+{{< resource "b645d03a-70cc-5965-7f1e-0c350e10beb8" >}}
 
 Victoria's coronation in Westminster Abbey, 1838.
 
-![Victoria's entrance into the City of London, 1837.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/vict_in_cty_183.jpg)
+{{< resource "cfaa6d57-67ac-eba9-54dd-844559267109" >}}
 
 Victoria's entrance into the City of London, 1837.
 
-![Victoria's Cheapside procession, November, 1837.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/vict_visit_cheap.jpg)
+{{< resource "2c8b3f87-b43f-550d-59e7-078bd6bedf5b" >}}
 
 Victoria's Cheapside procession, November, 1837.
 
-![Satirical view of the Lord Mayor presenting the City Sword to Victoria on her visit in 1837.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/vict_lord_mayor.jpg)
+{{< resource "4d84fbab-de4c-8b7d-c6c6-a415b630f208" >}}
 
 Satirical view of the Lord Mayor presenting the City Sword to Victoria on her visit in 1837.
 
-![Guildhall interior at a banquet given for Queen Victoria in 1839.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/guild_hal_int.jpg)
+{{< resource "083141a5-466c-4619-1351-e0b5fc8f1bcc" >}}
 
 Guildhall interior at a banquet given for Queen Victoria in 1839.
 
-![Victoria returning to Buckingham Palace from the House of Lords in 1839.](/courses/history/21h-342-the-royal-family-fall-2003/study-materials/vict_buckn_ham.jpg)
+{{< resource "84e82b03-5618-1b94-d7c8-ea37f433ac16" >}}
 
 Victoria returning to Buckingham Palace from the House of Lords in 1839.

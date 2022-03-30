@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 822a1ccf-7666-06de-3f90-10af5ffd1b72
 resourcetype: Image
 title: vict_lord_mayor.jpg
 uid: 4d84fbab-de4c-8b7d-c6c6-a415b630f208
